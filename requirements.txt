@@ -1,0 +1,6 @@
+opencv-python
+langchain-openai
+langgraph
+langchain-core
+pytz
+numpy
